@@ -1,2 +1,2 @@
 # voozap.github.io
-my extentions
+my extensions
